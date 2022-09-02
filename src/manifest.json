@@ -23,4 +23,5 @@
     "default_popup": "popup.html"
   },
   "update_url":"http://clients2.google.com/service/update2/crx"
+  ,"key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCWUR2LIG/eW6aLemiK7deHR3/BqeRS2aQjYG3jvLNU0fv2Z+01iG9TjPQ5ht+fb70UV9zC1xVbh1C/6kkrmX+d2RI8wxX+Qp93GxqJw8EB47azbW6hm2ukuGxxRW1bG15VSFf3Z4Vka+TwO7wBMtSPMzUdbWDYn+KWsyiEq+579wIDAQAB"
 }
